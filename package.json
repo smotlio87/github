@@ -1,5 +1,5 @@
 {
-  "name": "github-api",
+  "name": "smotlio87-github-api",
   "version": "3.3.0",
   "license": "BSD-3-Clause-Clear",
   "description": "A higher-level wrapper around the Github API.",
@@ -89,13 +89,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/github-tools/github.git"
+    "url": "git://github.com/smotlio87/github.git"
   },
   "keywords": [
     "github",
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/github-tools/github/issues"
+    "url": "https://github.com/smotlio87/github/issues"
   }
 }
