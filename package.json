@@ -1,6 +1,6 @@
 {
   "name": "@smotlio87/github",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "license": "BSD-3-Clause-Clear",
   "description": "A higher-level wrapper around the Github API.",
   "main": "dist/components/GitHub.js",
