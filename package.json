@@ -1,5 +1,5 @@
 {
-  "name": "smotlio87-github-api",
+  "name": "@smotlio87/github",
   "version": "3.3.0",
   "license": "BSD-3-Clause-Clear",
   "description": "A higher-level wrapper around the Github API.",
@@ -97,5 +97,8 @@
   ],
   "bugs": {
     "url": "https://github.com/smotlio87/github/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
